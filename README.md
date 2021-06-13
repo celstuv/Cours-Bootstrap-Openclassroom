@@ -14,3 +14,5 @@ Grâce à ce cours j'ai appris à :
 - créer des fonctionnalités et des thèmes personnalisés à l'aide de Bootstrap.
 
 
+
+Voir le résultat : https://celstuv.github.io/Cours-Bootstrap-Openclassroom/
